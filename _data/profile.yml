@@ -3,7 +3,7 @@ secondary_name: "姚依林"
 navbar_name: "Yilin Yao"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> Ph.D. Student, Shanghai Jiao Tong University（2025）'
+  - '<span class="no-break"><img src="assets/images/badges/sjtu.png" alt="Shanghai Jiao Tong University" class="inline-badge"/></span> Ph.D. Student, Shanghai Jiao Tong University（2025）'
 
 email: "jolinyao@sjtu.edu.cn"
 cv_link: link-to-your-cv-file
@@ -26,18 +26,14 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash.
 
 education:
-- name: Peking University
-  logo: assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
 
 - name: Shanghai Jiao Tong University
-  logo: assets/images/badges/PKU_red.png
+  logo: assets/images/badges/sjtu.png
   position: Ph.D. Student
   date: Sep.2025 - Present
 
 - name: Fuzhou University
-  logo: assets/images/badges/PKU_red.png
+  logo: assets/images/badges/fzu.png
   position: B.Eng. in Electronic Information Engineering
   date: Sep.2021 - Jul.2025
 
