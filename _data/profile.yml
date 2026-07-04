@@ -1,11 +1,11 @@
 primary_name: "Yilin Yao"
-secondary_name: ""
+secondary_name: "姚依林"
 navbar_name: "Yilin Yao"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Peking University (2021)'
+  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> Ph.D. Student, Shanghai Jiao Tong University（2025）'
 
-email: "3501444988@qq.com"
+email: "jolinyao@sjtu.edu.cn"
 cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
 github: your_github_id
@@ -17,9 +17,9 @@ twitter: your_twitter_id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  I am currently a Ph.D. student at Shanghai Jiao Tong University. 
+  I received my B.Eng. degree in Electronic Information Engineering from Fuzhou University in 2025. 
+  My research interests include graph neural networks and AI for Science, with a focus on developing machine learning methods for scientific discovery and data-driven modeling.
 
 portrait_url: assets/images/photos/portrait.jpg
 portrait_caption: >-
@@ -30,6 +30,16 @@ education:
   logo: assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
   date: Sep. 2017 - Jul. 2021
+
+- name: Shanghai Jiao Tong University
+  logo: assets/images/badges/PKU_red.png
+  position: Ph.D. Student
+  date: Sep.2025 - Present
+
+- name: Fuzhou University
+  logo: assets/images/badges/PKU_red.png
+  position: B.Eng. in Electronic Information Engineering
+  date: Sep.2021 - Jul.2025
 
 # experience:
 # - name: Peking University
