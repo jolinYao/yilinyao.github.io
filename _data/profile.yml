@@ -22,8 +22,8 @@ short_bio: >-
   My research interests include graph neural networks and AI for Science, with a focus on developing machine learning methods for scientific discovery and data-driven modeling.
 
 portrait_url: assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash.
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash.
 
 education:
 
